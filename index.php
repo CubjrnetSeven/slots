@@ -270,15 +270,15 @@ html {font-family: sans-serif;-webkit-text-size-adjust: 100%;-ms-text-size-adjus
 <tbody>
 <tr>
 <td><strong>Depo 20 Bonus 20</strong></td>
-<td><a class="button" href="https://rebrand.ly/hobi138bonus" target="_blank" rel="nofollow noopener">DAFTAR</a></td>
+<td><a class="button" href="https://www.gudangliga.com/daftar?ref=maubonus" target="_blank" rel="nofollow noopener">DAFTAR</a></td>
 </tr>
 <tr>
 <td><strong>Depo 25 Bonus 25</strong></td>
-<td><a class="button" href="https://rebrand.ly/hobi138bonus" target="_blank" rel="nofollow noopener">DAFTAR</a></td>
+<td><a class="button" href="https://www.gudangliga.com/daftar?ref=maubonus" target="_blank" rel="nofollow noopener">DAFTAR</a></td>
 </tr>
 <tr>
 <td><strong>Depo 50 Bonus 50</strong></td>
-<td><a class="button" href="https://rebrand.ly/hobi138bonus" target="_blank" rel="nofollow noopener">DAFTAR</a></td>
+<td><a class="button" href="https://www.gudangliga.com/daftar?ref=maubonus" target="_blank" rel="nofollow noopener">DAFTAR</a></td>
 </tr>
 <tr>
 <td><strong>Link Server Internasional</strong></td>
